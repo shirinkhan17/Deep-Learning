@@ -29,22 +29,4 @@
 * LSTM
 
 
-### LLM Topics
 
-* Fine-Tuning
-* LoRA
-* RLHF
-* RAG
-* Vector Databases
-* Prompt Engineering
-
----
-
-## Recommendation Systems
-
-* Collaborative Filtering
-* Matrix Factorization
-* Wide & Deep
-* DeepFM
-* Two-Tower Models
-* Retrieval vs Ranking
